@@ -32,7 +32,7 @@
   * Zombie.cs : LivingEntity를 상속받아 기본 기능을 구현하고, 플레이어를 추적하는 기능을 추가하였습니다.
 ---
 **2. 플레이 영상**
-
+https://velog.io/@jongha56/Zombie-Survival-Portfolio
 
 ---
 **3. 참고 서적**</br>
